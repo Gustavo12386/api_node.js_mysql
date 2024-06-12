@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
+    "caniuse-lite": "^1.0.30001632",
+    "cors": "^2.8.5",
     "express": "^4.19.2",
     "mysql2": "^3.10.0",
     "sequelize": "^6.37.3"
