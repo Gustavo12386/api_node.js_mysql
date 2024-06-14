@@ -8,7 +8,7 @@ const postsRoute = require('./routers/posts');
 
 const corsOptions = {
   origin: 'http://localhost:5173', 
-  methods: 'GET,POST,PUT,DELETE',
+  methods: 'GET,POST,PATCH,DELETE',
   allowedHeaders: 'Content-Type,Authorization'
 };
 
